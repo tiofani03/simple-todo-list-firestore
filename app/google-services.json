@@ -1,0 +1,230 @@
+{
+  "project_info": {
+    "project_number": "460396664561",
+    "firebase_url": "https://sambatan-kita.firebaseio.com",
+    "project_id": "sambatan-kita",
+    "storage_bucket": "sambatan-kita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460396664561:android:a09951f21b9584cb437b50",
+        "android_client_info": {
+          "package_name": "com.lekasehat.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowwdkQQ_7gUv2U6WOvjkqftxz6W-_Or0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460396664561:android:efc5ba965e350fe4437b50",
+        "android_client_info": {
+          "package_name": "com.lekasehat.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowwdkQQ_7gUv2U6WOvjkqftxz6W-_Or0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460396664561:android:bfa2e09b023debe1437b50",
+        "android_client_info": {
+          "package_name": "com.lekasehat.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowwdkQQ_7gUv2U6WOvjkqftxz6W-_Or0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460396664561:android:1d34ecc91104563d437b50",
+        "android_client_info": {
+          "package_name": "com.tiooooo.catatanpkl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460396664561-gj5s9rld2m5b7u7m4atmq2m28707esvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiooooo.catatanpkl",
+            "certificate_hash": "82e39472317aeffb6cb4ccf6b0485eec45f2deec"
+          }
+        },
+        {
+          "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowwdkQQ_7gUv2U6WOvjkqftxz6W-_Or0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460396664561:android:2fa7f773716163d7437b50",
+        "android_client_info": {
+          "package_name": "com.tiooooo.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460396664561-gjrl11grp3fdj0h74575gg62ku1da2aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiooooo.chatapp",
+            "certificate_hash": "82e39472317aeffb6cb4ccf6b0485eec45f2deec"
+          }
+        },
+        {
+          "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowwdkQQ_7gUv2U6WOvjkqftxz6W-_Or0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460396664561:android:37e8b1850a846ca7437b50",
+        "android_client_info": {
+          "package_name": "com.tiooooo.mymyfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowwdkQQ_7gUv2U6WOvjkqftxz6W-_Or0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460396664561:android:c0ba52b0b132f706437b50",
+        "android_client_info": {
+          "package_name": "com.tiooooo.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowwdkQQ_7gUv2U6WOvjkqftxz6W-_Or0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460396664561-lt5guihaenffclrtpqqa9j0kcb14ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

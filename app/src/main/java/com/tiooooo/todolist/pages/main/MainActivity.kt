@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
     private fun handleAdapterListener() = object : TodoAdapterListener {
         override fun onClickDetail(todo: Todo) {
             val intent = Intent(this@MainActivity, DetailActivity::class.java)
-            intent.putExtra(EXTRA_ID, todo.uid)
+            intent.putExtra(EXTRA_ID, todo.id)
             intent.putExtra(EXTRA_MESSAGE, todo.description)
 
             startActivity(intent)
@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
 
         override fun onClickEdit(todo: Todo) {
             val intent = Intent(this@MainActivity, AddTodoActivity::class.java)
-            intent.putExtra(EXTRA_ID, todo.uid)
+            intent.putExtra(EXTRA_ID, todo.id)
             intent.putExtra(EXTRA_EDIT, true)
             intent.putExtra(EXTRA_MESSAGE, todo.description)
             startActivity(intent)

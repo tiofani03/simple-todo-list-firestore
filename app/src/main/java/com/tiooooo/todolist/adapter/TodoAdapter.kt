@@ -32,7 +32,7 @@ class TodoAdapter(
 
         fun bindItem(todo: Todo) {
             todoBinding.tvMessage.text = todo.description
-            todoBinding.tvId.text = "ID: ${todo.uid}"
+            todoBinding.tvId.text = "ID: ${todo.id}"
 
             todo.time?.let {
                 val milliseconds = it.seconds * 1000 + it.nanoseconds / 1000000
